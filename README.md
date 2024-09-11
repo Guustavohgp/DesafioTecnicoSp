@@ -51,3 +51,4 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 ### b) Evite usar funções prontas, como, por exemplo, reverse;
 
 ## Resultado: 
+![alt text](image-5.png)
