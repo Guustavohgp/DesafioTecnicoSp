@@ -29,6 +29,9 @@ IMPORTANTE:
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
+## Resultado: 
+![alt text](image-2.png)
+
 ## 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 * SP – R$67.836,43
 * RJ – R$36.678,66
