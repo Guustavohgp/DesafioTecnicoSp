@@ -39,10 +39,15 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 * ES – R$27.165,48
 * Outros – R$19.849,53
 
-## Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.  
+## Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
+
+## Resultado
+![alt text](image-4.png)
 
 ## 5) Escreva um programa que inverta os caracteres de um string.
 
 ## IMPORTANTE:
 ### a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 ### b) Evite usar funções prontas, como, por exemplo, reverse;
+
+## Resultado: 
